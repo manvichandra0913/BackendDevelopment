@@ -13,7 +13,7 @@
     "express",
     "ejs"
   ],
-  "author": "Tanmay Aggarwal",
+  "author": "Manvi Chandra",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.9",

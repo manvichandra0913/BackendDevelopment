@@ -3,7 +3,7 @@ const http = require('http');
 const PORT = 3000;
 
 const students = [
-  { id: 1, name: 'Tanmay Aggarwal', course: 'Backend Development' },
+  { id: 1, name: 'Manvi Chandra', course: 'Backend Development' },
   { id: 2, name: 'Jasprit', course: 'Node.js' },
   { id: 3, name: 'Rohit', course: 'Express.js' }
 ];

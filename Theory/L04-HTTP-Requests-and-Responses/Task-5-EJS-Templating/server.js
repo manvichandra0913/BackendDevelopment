@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
 
 app.get('/students', (req, res) => {
   const students = [
-    { name: 'Tanmay Aggarwal', course: 'Backend Development' },
+    { name: 'Manvi Chandra', course: 'Backend Development' },
     { name: 'Jasprit', course: 'Node.js' },
     { name: 'Rohit', course: 'Express.js' }
   ];

@@ -9,13 +9,13 @@ app.set('view engine', 'ejs');
 app.set('views', './views');
 
 const studentInfo = {
-  name: 'Tanmay Aggarwal',
+  name: 'Manvi Chandra',
   rollNumber: '14609',
   branch: 'Backend Development'
 };
 
 const students = [
-  { id: 1, name: 'Tanmay Aggarwal', email: 'tanmay@example.com', course: 'Backend Development', semester: '5' },
+  { id: 1, name: 'Manvi Chandra', email: 'tanmay@example.com', course: 'Backend Development', semester: '5' },
   { id: 2, name: 'Hardik', email: 'hardik@example.com', course: 'Node JS', semester: '5' },
   { id: 3, name: 'Karan', email: 'karan@example.com', course: 'Express JS', semester: '5' }
 ];
